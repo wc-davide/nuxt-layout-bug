@@ -1,5 +1,5 @@
 <template>
 	<div>
-		<h3>my index.vue page</h3>
+		<NuxtPage />
 	</div>
 </template>
